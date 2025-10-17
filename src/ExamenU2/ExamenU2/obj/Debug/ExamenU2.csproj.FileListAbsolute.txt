@@ -1,0 +1,15 @@
+D:\Yael\Documents\trabjos C#\ExamenU2\ExamenU2\bin\Debug\ExamenU2.exe.config
+D:\Yael\Documents\trabjos C#\ExamenU2\ExamenU2\bin\Debug\ExamenU2.exe
+D:\Yael\Documents\trabjos C#\ExamenU2\ExamenU2\bin\Debug\ExamenU2.pdb
+D:\Yael\Documents\trabjos C#\ExamenU2\ExamenU2\obj\Debug\ExamenU2.csproj.AssemblyReference.cache
+D:\Yael\Documents\trabjos C#\ExamenU2\ExamenU2\obj\Debug\ExamenU2.csproj.CoreCompileInputs.cache
+D:\Yael\Documents\trabjos C#\ExamenU2\ExamenU2\obj\Debug\ExamenU2.exe
+D:\Yael\Documents\trabjos C#\ExamenU2\ExamenU2\obj\Debug\ExamenU2.pdb
+D:\Yael\Documents\trabjos C#\ExamenU2\ExamenU2\obj\Debug\ExamenU2.exe.config
+C:\Users\carlo\Desktop\ExamenU2\ExamenU2\bin\Debug\ExamenU2.exe.config
+C:\Users\carlo\Desktop\ExamenU2\ExamenU2\bin\Debug\ExamenU2.exe
+C:\Users\carlo\Desktop\ExamenU2\ExamenU2\bin\Debug\ExamenU2.pdb
+C:\Users\carlo\Desktop\ExamenU2\ExamenU2\obj\Debug\ExamenU2.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\ExamenU2\ExamenU2\obj\Debug\ExamenU2.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\ExamenU2\ExamenU2\obj\Debug\ExamenU2.exe
+C:\Users\carlo\Desktop\ExamenU2\ExamenU2\obj\Debug\ExamenU2.pdb
